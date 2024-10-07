@@ -1,3 +1,3 @@
-# H1 Data Science
-## H2 What is Data Science?
-### H3  Data Types
+# Data Science
+## What is Data Science?
+###  Data Types
