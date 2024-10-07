@@ -9,7 +9,6 @@
 - Semi-Structured Data
 - UnStructured Data
 
-  | Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| cell | cell |
