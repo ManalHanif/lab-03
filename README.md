@@ -16,6 +16,6 @@
 
 ````python
 print("DS Bootcamp")
+````
 
-
- [Read More]([https://www.example.com](https://en.wikipedia.org/wiki/Data_science))
+ [Read More]([[https://www.example.com](https://en.wikipedia.org/wiki/Data_science)]
