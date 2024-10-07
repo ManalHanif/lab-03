@@ -14,7 +14,7 @@
 | it is data that has been organized into a strict schema. | it is data that does not conform to a schema but has some structure. | it is data that has no schema. |
 | e.g:tables | e.g:xml | e.g:photos |
 
-``python
+````python
 print("DS Bootcamp")
 
 
