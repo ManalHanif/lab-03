@@ -18,4 +18,4 @@
 print("DS Bootcamp")
 ````
 
- <ins>text</ins>(https://en.wikipedia.org/wiki/Data_science)
+[](https://en.wikipedia.org/wiki/Data_science)
